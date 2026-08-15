@@ -6,7 +6,7 @@ Welcome to my portfolio website! This repository hosts the HTML file for my pers
 
 You can view the live portfolio website here:
 
-[Portfolio Website](https://portfolio-six-delta-33.vercel.app/)
+[Portfolio Website](https://seywilliams.github.io/)
 
 ## Features
 
